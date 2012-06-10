@@ -1,0 +1,7 @@
+<!ELEMENT mailbox (mail*) >
+<!ELEMENT mail (id,from, to, subject, body) >
+<!ELEMENT id (#PCDATA) >
+<!ELEMENT from (#PCDATA) >
+<!ELEMENT to (#PCDATA) >
+<!ELEMENT subject (#PCDATA) >
+<!ELEMENT body (#PCDATA) >

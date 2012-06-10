@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE mailbox SYSTEM "mailbox.dtd">
+<?XEDIX id 100?>
+<?XEDIX class none?>
+<mailbox>
+	<mail>
+			<id>a</id>
+		   <from>guyom370@gmail.com</from>
+		   <to>reminoos@gmail.com</to>
+		   <subject>Petit coucou de marseille</subject>
+		   <body>Corps du message 1</body>
+	</mail>
+	<mail>
+			<id>b</id>
+		   <from>guyom370@gmail.com</from>
+		   <to>micka@gmail.com</to>
+		   <subject>Petit coucou de marseille2</subject>
+		   <body>Corps du mesage 2</body>
+	</mail>
+	<mail>
+			<id>c</id>
+		   <from>guyom370@gmail.com</from>
+		   <to>sofiane@gmail.com</to>
+		   <subject>Petit coucou de marseille3</subject>
+		   <body>Corps du message 3</body>
+	</mail>
+</mailbox>
